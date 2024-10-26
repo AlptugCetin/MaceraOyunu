@@ -1,0 +1,10 @@
+package inventory;
+import inventory.Armor;
+
+public class HeavyArmor extends Armor{
+
+	public HeavyArmor() {
+		super(3, "Ağır Zırh", 12, 60);
+		
+	}
+}
